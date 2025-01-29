@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt update
 sudo apt install openjdk-17-jdk wget -y
 mkdir -p /opt/nexus/   
 mkdir -p /tmp/nexus/                           
